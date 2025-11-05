@@ -19,6 +19,10 @@ https://github.com/arpcard/rgi/tree/master
 ```
 
 
-https://github.com/tseemann/abricate
-
+## https://github.com/tseemann/abricate
+```
+```
+## PlasX, plasmid detection from metagenomic dataset
+```
+https://www.nature.com/articles/s41564-024-01610-3?error=cookies_not_supported&code=3381acdb-f3f7-47c3-aeca-0dcea6008b50
 ```
