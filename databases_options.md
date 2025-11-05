@@ -27,3 +27,8 @@ https://github.com/arpcard/rgi/tree/master
 https://github.com/michaelkyu/PlasX
 https://www.nature.com/articles/s41564-024-01610-3?error=cookies_not_supported&code=3381acdb-f3f7-47c3-aeca-0dcea6008b50
 ```
+## Plasmidome
+
+```
+https://www.nature.com/articles/s41564-023-01521-9#Sec11
+```
