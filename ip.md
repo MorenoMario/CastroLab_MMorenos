@@ -12,9 +12,9 @@ ssh mmoreno@190.110.100.21 -p 20223
 /home/patricio/analisis_comau_separados
 (pato: ahi tengo la fase plasmidial y cromosomal)
 ```
-## Datos Vale
+## Datos Vale-bins
 
 ```
-/home/comau_project
+/home/comau_great_project_saint_trinity/bins
 
 ```
