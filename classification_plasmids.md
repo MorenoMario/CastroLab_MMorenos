@@ -478,4 +478,4 @@ chmod +x 05_import_functions_into_anvio.sh
    ./05_import_functions_into_anvio.sh
    ```
 
-Con esto tienes la versión manual pero completamente controlada de la anotación COG14_FUNCTION, compatible con tu instalación de COG14 y evitando los problemas de encoding y de `/tmp` que te estaban frenando `anvi-run-ncbi-cogs`.
+Todo este jaleo, es debido a que el script de anotación de COGs de anvio, no funciona ni verga
