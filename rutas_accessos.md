@@ -18,3 +18,9 @@
 /home/databases/comau/00_anvio_comau/05_plasmids_contigs
 
 ```
+### Secuencias extraidas de los plásmidos (concenso) 
+#### Ruta:
+```
+
+/home/databases/comau/00_anvio_comau/05_plasmids_contigs/out_consensus_07_05_00_new/extract_plasmid_any
+```
