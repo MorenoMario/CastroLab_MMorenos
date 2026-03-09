@@ -8,7 +8,8 @@
 
 ```
 
-### Estos MAGs fueron construidos basados en metawrap C50X10, usando metabat2,concoct, vamB
+### Plasmidos usando un consenso de 07G/05PLX/00PLM.
+### Estos Plasmidos fueron construidos basados en Genomad, Plasx, Plasme.
 #### Ruta:
 
 
