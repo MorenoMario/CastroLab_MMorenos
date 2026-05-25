@@ -5,6 +5,8 @@ ssh mmoreno@172.22.0.21
 
 out= 
 ssh mmoreno@190.110.100.21 -p 20223
+
+Ruta plasmidos: /home/databases/comau/00_anvio_comau/05_plasmids_contigs/out_consensus_07_05_00_new/extract_plasmid_any
 ```
 ## Datos pato
 ```
