@@ -176,3 +176,4 @@ done
 echo
 echo "[INFO] fin: $(date '+%F %T')"
 
+/home/mmoreno/00_plasmaag/out_comau_90/derep_plasmids_mmseqs
