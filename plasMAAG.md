@@ -177,3 +177,36 @@ echo
 echo "[INFO] fin: $(date '+%F %T')"
 
 /home/mmoreno/00_plasmaag/out_comau_90/derep_plasmids_mmseqs
+
+
+===== 99% identidad =====
+Representantes FASTA: 8275
+Clusters únicos:      8275
+Secuencias agrupadas: 8651
+Distribución de tamaños:
+   8021 1
+    196 2
+     29 3
+     15 4
+      6 5
+      2 6
+      3 7
+      2 9
+      1 10
+
+===== 95% identidad =====
+Representantes FASTA: 8222
+Clusters únicos:      8222
+Secuencias agrupadas: 8651
+Distribución de tamaños:
+   7932 1
+    224 2
+     37 3
+     13 4
+      6 5
+      2 6
+      3 7
+      2 8
+      2 9
+      1 11
+
